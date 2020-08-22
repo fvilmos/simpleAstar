@@ -2,7 +2,7 @@
 
 ### About
 
-Simple A* path finding algorithm implementation for 2D points and 3D point clouds.
+Simple A* pathfinding algorithm implementation, for 2D points and 3D point clouds.
 
 <p align="center"> 
 <img src="./data/Astar_2D.png" alt="300" width="300"></a>
@@ -20,7 +20,7 @@ Optimize implementation for bigger maps:
 - use smarter heuristics
 
 ### Resources
-A* pseudo-code from [wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm) was used as inspiration for the 2D python implementation, credits goes there.
-Another great [source](https://www.redblobgames.com/) for learning about path finding.
+A* pseudo-code from [wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm) was used as inspiration for the 2D python implementation, the credits go there.
+Another great [source](https://www.redblobgames.com/) for learning about pathfinding.
 
-/Enjoy
+/Enjoy.
